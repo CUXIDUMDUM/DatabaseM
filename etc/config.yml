@@ -1,0 +1,6 @@
+user: user
+password: password
+dsn: dsn
+database: var/testdb
+dry_run: 1
+schema_file: etc/schema_file.sql
